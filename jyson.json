@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Line innovation",
+        "Tin": 12345,
+        "location": "Kigali"
+    },
+
+    {
+        "name": "opl",
+        "Tin": 54321,
+        "location": "Musanze"
+
+    }
+]
